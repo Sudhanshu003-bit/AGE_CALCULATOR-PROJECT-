@@ -1,6 +1,6 @@
 # AGE_CALCULATOR_PROJECT
 
-he Age Calculator is a simple yet efficient web-based application that allows users to determine their age based on their date of birth. This project utilizes HTML, CSS, and JavaScript to create an interactive and user-friendly experience. By leveraging JavaScript’s built-in date and time functions, the application accurately calculates the user's age in years.
+The Age Calculator is a simple yet efficient web-based application that allows users to determine their age based on their date of birth. This project utilizes HTML, CSS, and JavaScript to create an interactive and user-friendly experience. By leveraging JavaScript’s built-in date and time functions, the application accurately calculates the user's age in years.
 
 Features
 User-Friendly Interface – A clean and simple layout for easy interaction.
